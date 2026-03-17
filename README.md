@@ -79,8 +79,12 @@ Bicycle-Sales-Dashboard/
 ---
 
 ## 📷 Screenshots
-<img width="1054" height="506" alt="Screenshot 2026-03-17 120052 - Copy" src="https://github.com/user-attachments/assets/45348250-763a-46f8-aef9-2c8c0e71bfb6" />
 
+<img width="1088" height="513" alt="Screenshot 2026-03-17 120007 - Copy" src="https://github.com/user-attachments/assets/2b733f54-0fec-43c0-a3fe-3f05cc652a22" />
+
+<img width="1088" height="513" alt="Screenshot 2026-03-17 120007" src="https://github.com/user-attachments/assets/adc1938f-652e-47c0-80c8-1e6f84999cc5" />
+
+<img width="1054" height="506" alt="Screenshot 2026-03-17 120052 - Copy" src="https://github.com/user-attachments/assets/7f1b637d-122e-4600-86e5-e8bf4fd2f815" />
 
 ---
 
