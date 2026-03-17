@@ -100,19 +100,6 @@ The Product Dashboard focuses on performance across different bicycle products.
 
 ---
 
-## 📂 Project Structure
-Bicycle-Sales-Dashboard/
-│
-├── Dataset/
-│   └── bicycle_sales_data.xlsx
-│
-├── Dashboard/
-│   └── Bicycle_Sales_Dashboard.xlsx
-│
-└── README.md
-
----
-
 ## 🚀 How to Use
 1. Download the Excel dashboard file
 2. Open in Microsoft Excel (2016 or later recommended)
